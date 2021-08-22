@@ -10,3 +10,4 @@ paths and folder by decoding the TCP stream and running a regex against it.
 - [ ] Basic HTTP validation
 - [ ] Return correct headers
 - [ ] Parse options instead of using hardcoded values
+- [ ] Add some basic styling
